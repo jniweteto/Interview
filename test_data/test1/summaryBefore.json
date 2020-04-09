@@ -1,0 +1,14 @@
+{
+	"CustomerSummaries": [{
+		"CustomerID": 1,
+		"SeasonID": 2011,
+		"TotalRepaid": 80,
+		"TotalCredit": 100
+	},
+	{
+		"CustomerID": 1,
+		"SeasonID": 2012,
+		"TotalRepaid": 120,
+		"TotalCredit": 120
+	}]
+}

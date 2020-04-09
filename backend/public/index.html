@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+    <title>App</title> 
+</head> 
+  
+<body> 
+    <h1>Payments upload</h1> 
+   
+    <form action="/api/repayments/upload" 
+      enctype="multipart/form-data" method="POST"> 
+      
+        <span>Upload payments:</span>   <br>
+        <input type="file" name="payments" required/> <br> 
+        <input type="submit" value="upload">  
+    </form> 
+</body> 
+  
+</html> 
